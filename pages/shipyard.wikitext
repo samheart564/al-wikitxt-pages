@@ -811,6 +811,116 @@ The tables below list how these ships are obtained.
   </div>
 </tabber>
 
+===Series 8===
+<tabber>
+ Kansas=
+  <div style="display:flex; flex-wrap:wrap">
+   <div style="margin-right:10px">{{ShipDisplay|5|Kansas|BB||{{Priority}}&ensp;{{Eagle Union|x25}}}}</div>
+   <div style="font-size:98%">
+    {| class="azltable" style="margin-top:3px"
+     ! Development requirements
+     |-
+     ! style="background-color:#555555" | 950 [[Eagle Union]] {{Tech point|30}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     |-
+     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1 million experience with [[Eagle Union]] Main Fleet ships<br><!--
+       -->'''2.''' Complete 5 [[Research Academy|Research Projects]]<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT2BP.png|20px|link=Dockyard#Blueprints|T2 Battleship Retrofit blueprint]]</div> 10 T2 Battleship Retrofit Blueprints<br><!--
+       -->'''4.''' Accumulate 2 million experience with [[Eagle Union]] Main Fleet ships<br><!--
+       -->'''5.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T3 Battleship Retrofit blueprint]]</div> 5 T3 Battleship Retrofit Blueprints<br><!--
+       -->'''7.''' Gather {{Coin|20}} 30000 Coins<br><!--
+       -->'''8.''' Gather {{Wisdom cube|20}} 5 Wisdom Cubes
+    |}
+   </div>
+  </div>
+ |-| 
+ Mecklenburg=
+  <div style="display:flex; flex-wrap:wrap">
+   <div style="margin-right:10px">{{ShipDisplay|6|Mecklenburg|BB||{{Decisive}}&ensp;{{Iron Blood|x25}}}}</div>
+   <div style="font-size:98%">
+    {| class="azltable" style="margin-top:3px"
+     ! Development requirements
+     |-
+     ! style="background-color:#555555" | 950 [[Iron Blood]] {{Tech point|30}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     |-
+     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1.2 million experience with [[Iron Blood]] Main Fleet ships<br><!--
+       -->'''2.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T3 Battleship Retrofit blueprint]]</div> 3 T3 Battleship Retrofit Blueprints<br><!--
+       -->'''4.''' Accumulate 2.4 million experience with [[Iron Blood]] Main Fleet ships<br><!--
+       -->'''5.''' Complete 12 [[Research Academy|Research Projects]]<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|6}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T4 Battleship Retrofit blueprint]]</div> 8 T4 Battleship Retrofit Blueprints<br><!--
+       -->'''7.''' Gather {{Coin|20}} 60000 Coins<br><!--
+       -->'''8.''' Gather {{Wisdom cube|20}} 10 Wisdom Cubes
+    |}
+   </div>
+  </div>
+ |-| 
+ Vittorio Cuniberti=
+  <div style="display:flex; flex-wrap:wrap">
+   <div style="margin-right:10px">{{ShipDisplay|5|Vittorio Cuniberti|DD||{{Priority}}&ensp;{{Sardegna Empire|x25}}}}</div>
+   <div style="font-size:98%">
+    {| class="azltable" style="margin-top:3px"
+     ! Development requirements
+     |-
+     ! style="background-color:#555555" | 300 [[Sardegna Empire]] {{Tech point|20}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     |-
+     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1 million experience with [[Sardegna Empire]] Vanguard ships<br><!--
+       -->'''2.''' Complete 5 [[Research Academy|Research Projects]]<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:DestroyerT2BP.png|20px|link=Dockyard#Blueprints|T2 Destroyer Retrofit blueprint]]</div> 10 T2 Destroyer Retrofit Blueprints<br><!--
+       -->'''4.''' Accumulate 2 million experience with [[Sardegna Empire]] Vanguard ships<br><!--
+       -->'''5.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:DestroyerT3BP.png|20px|link=Dockyard#Blueprints|T3 Destroyer Retrofit blueprint]]</div> 5 T3 Destroyer Retrofit Blueprints<br><!--
+       -->'''7.''' Gather {{Coin|20}} 20000 Coins<br><!--
+       -->'''8.''' Gather {{Wisdom cube|20}} 5 Wisdom Cubes
+    |}
+   </div>
+  </div>
+ |-| 
+ Dmitri Donskoi=
+  <div style="display:flex; flex-wrap:wrap">
+   <div style="margin-right:10px">{{ShipDisplay|5|Dmitri Donskoi|CL||{{Priority}}&ensp;{{Northern Parliament|x25}}}}</div>
+   <div style="font-size:98%">
+    {| class="azltable" style="margin-top:3px"
+     ! Development requirements
+     |-
+     ! style="background-color:#555555" | 300 [[Northern Parliament]] {{Tech point|20}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     |-
+     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1 million experience with [[Northern Parliament]] Vanguard ships<br><!--
+       -->'''2.''' Complete 5 [[Research Academy|Research Projects]]<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT2BP.png|20px|link=Dockyard#Blueprints|T2 Cruiser Retrofit Blueprint]]</div> 10 T2 Cruiser Retrofit Blueprints<br><!--
+       -->'''4.''' Accumulate 2 million experience with [[Northern Parliament]] Vanguard ships<br><!--
+       -->'''5.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 Cruiser Retrofit Blueprint]]</div> 5 T3 Cruiser Retrofit Blueprints<br><!--
+       -->'''7.''' Gather {{Coin|20}} 20000 Coins<br><!--
+       -->'''8.''' Gather {{Wisdom cube|20}} 5 Wisdom Cubes
+    |}
+   </div>
+  </div>
+ |-| 
+ Gouden Leeuw=
+  <div style="display:flex; flex-wrap:wrap">
+   <div style="margin-right:10px">{{ShipDisplay|6|Gouden Leeuw|CA||{{Decisive}}&ensp;{{Kingdom of Tulipa|x25}}}}</div>
+   <div style="font-size:98%">
+    {| class="azltable" style="margin-top:3px"
+     ! Development requirements
+     |-
+     ! style="background-color:#555555" | 800 [[Iron Blood]] and 200 [[Sardegna Empire]] {{Tech point|30}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     |-
+     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1.2 million experience with [[Kingdom of Tulipa]] or [[Iron Blood]] Vanguard ships<br><!--
+       -->'''2.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 Cruiser Retrofit blueprint]]</div> 3 T3 Cruiser Retrofit Blueprints<br><!--
+       -->'''4.''' Accumulate 2.4 million experience with [[Kingdom of Tulipa]] or [[Iron Blood]] Vanguard ships<br><!--
+       -->'''5.''' Complete 12 [[Research Academy|Research Projects]]<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|6}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T4 Cruiser Retrofit blueprint]]</div> 8 T4 Cruiser Retrofit Blueprints<br><!--
+       -->'''7.''' Gather {{Coin|20}} 40000 Coins<br><!--
+       -->'''8.''' Gather {{Wisdom cube|20}} 10 Wisdom Cubes
+    |}
+   </div>
+  </div>
+</tabber>
+
+
+
 ===Enhancing===
 Priority ships use special units called '''General Blueprints''' (often shortened to "BP") obtained from the [[Research Academy]], [[Shops#Prototype Shop|Prototype Shop]], [[Building#Exchange|Medal Exchange]], Event Shops, Event Point Milestone Rewards or other limited events; each PR ship has its own General Blueprints, identified by its icon in the bottom right corner. These are required in order to [[Dockyard#Limit_Break|Limit Break]] said PR ship. However, to unlock certain Development Level, it is still required to reach certain level as per normal ship need for Limit breaks.
 

@@ -921,7 +921,7 @@ The tables below list how these ships are obtained.
 
 
 
-===Enhancing===
+==Enhancing==
 Priority ships use special units called '''General Blueprints''' (often shortened to "BP") obtained from the [[Research Academy]], [[Shops#Prototype Shop|Prototype Shop]], [[Building#Exchange|Medal Exchange]], Event Shops, Event Point Milestone Rewards or other limited events; each PR ship has its own General Blueprints, identified by its icon in the bottom right corner. These are required in order to [[Dockyard#Limit_Break|Limit Break]] said PR ship. However, to unlock certain Development Level, it is still required to reach certain level as per normal ship need for Limit breaks.
 
 The table below lists the amount of blueprints needed to reach specific development levels. 
@@ -958,7 +958,7 @@ The table below lists the amount of blueprints needed to reach specific developm
 
 Note that the levels of PR ships are not capped by the number of limit breaks they have undergone; for instance, a recently obtained Neptune (with no development levels and limit breaks) can still reach level 100, and indeed level 125 using the [[Dockyard#Cognitive Awakening|Cognition Awakening]] system. (''Lower'' limits still apply, however; Neptune needs to be at least level 10 to advance past development level 9, for instance.) Aside from this, PR ships level in the same way as regular ships.
 
-====Enhancing with Coins====
+===Enhancing with Coins===
 Series 1,2,3,4 and the PR ships of PR5 allow the use of {{coin}} to replace BP. Blueprints are always taken first, but if no prints are available the option to buy for {{coin}} becomes available. Every day the first 15 purchases are discounted, this is a combined amount amongst all ships in all supported seasons, you do not get 2 free prints per day per ship for example. However the PR prints and DR prints discounts are calculated seperately. Both discounts resets each day 4 hours after reset time<!--for some stupid reason-->. The following prices apply to enhance series by coin:
 
 {| class="azltable" style="text-align: center;"
@@ -985,7 +985,7 @@ Series 1,2,3,4 and the PR ships of PR5 allow the use of {{coin}} to replace BP. 
 |blueprint_catchup_by_gold.png | In-game guide on enhancing with Coins.
 }}
 
-=== Fate Simulation ===
+== Fate Simulation ==
 '''Fate Simulation''' (called "Integrity Reinforcement" in the JP server), is a way to improve Research ships that have reached development level 30 with extra General Blueprints. There are 5 phases, each requiring an increasing amount of General Blueprints to reach the next phase. Research ships initially have 0 luck, but going through these phases allows a Research ship to obtain a total of 15 luck for PR and 25 luck for DR. In addition, when a ship reaches Phase 5, one of the ship's skills is improved, with an additional upgrade at Phase 3 for DR ships. A ship cannot reach Fate Simulation level 5 until it reaches level 100, similar to how Dev Level 30 is locked until level 70.
 
 Currently, all PR ships in Series 1-6, all DR ships in Series 2-3, and [[Hakuryuu]] have this feature. 

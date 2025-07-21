@@ -1,0 +1,122 @@
+{{PageUnderConstruction}}
+
+The Commander Handbook features a variety of one-time missions to introduce new players to the mechanics of Azur Lane. It was added after the update on [[Recent_News#May_20th_2025|May 20th 2025]].
+
+== Rookie Missions ==
+[[File:Commander handbook rookie.jpg|300px|thumb|right|Rookie Missions UI.]]
+{{Mbox|inline=1|type=med|text=This section is unfinished, and is being worked on internally. Thank you for your patience.}}
+
+The Rookie Missions are a series of missions aimed at Commanders new to the game. There are '''9 mission phases''' in total, which each phase containing a handful of missions. Completing '''6 missions''' within a given phase unlocks the missions in the next phase. Completing all the missions across all phases gives completion rewards. When all missions across all 9 phases are completed, the players receives a '''Rookie Mission Invitation'''. This item can be used to redeem one of two UR-rarity shipgirls: [[Shinano]] or [[New Jersey]].
+
+=== Phase 1 ===
+Phase 1 missions here.
+
+== Development Missions ==
+''Unlocks at Commander Level 30''
+[[File:Commander handbook dev.jpg|300px|thumb|right|Development Missions UI.]]
+
+Completing these missions will give the player items that can be used in the [[Research#Shipyard|Development Dock]], such as [[File:CombatDataPack.png|30px|link=]] [[Shipyard#Combat Data Packs|'''Combat Data Packs''']] and [[Shipyard#Enhancing|'''Blueprints''']]. 
+
+The player can choose a shipgirl from a particular development series to advance these missions with. You don't have to start with Series 1!
+
+'''Once you unlock development missions, ALL missions of a particular series need to be cleared before you can switch to missions from other series.'''
+
+PR1 and PR2 series have 100% identical missions, the only difference being the Combat Data Pack series rewarded, and the final blueprints awarded, PR3/PR4/PR5 only slightly diverge.
+{| class="azltable" style="text-align: center"
+|+ Development Missions (per Series)
+! Description
+! Reward
+! Notes
+|-
+| Complete 3 Daily Challenges.
+| {{Display|CombatDataPack|G|x10 Combat Data Packs - Series X}}
+|
+|-
+| Complete 30 Daily Challenges.
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+|
+|-
+| Sorite and clear 3 non-event Hard Mode Stages.
+| {{Display|CombatDataPack|G|x10 Combat Data Packs - Series X}}
+|
+|-
+| Sorite and clear 30 non-event Hard Mode Stages.
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+|
+|-
+| Complete 5 commissions.
+| {{Display|CombatDataPack|G|x10 Combat Data Packs - Series X}}
+|
+|-
+| Complete 50 commissions.
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+|
+|-
+| Complete 100 commissions.
+| {{Display|CombatDataPack|G|x30 Combat Data Packs - Series X}}
+|
+|-
+| Conduct Research once.
+| {{Display|CombatDataPack|G|x10 Combat Data Packs - Series X}}
+|
+|-
+| Conduct Research 10 times.
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+|
+|-
+| Conduct Research 20 times.
+| {{Display|CombatDataPack|G|x30 Combat Data Packs - Series X}}
+|
+|-
+| Conduct Research 30 times.
+| {{Display|CombatDataPack|G|x40 Combat Data Packs - Series X}}
+|
+|-
+| Build 10 ships.
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+|
+|-
+| Build 20 ships.
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+|
+|-
+| Make a Promise to any ship.
+| {{Display|CombatDataPack|G|x50 Combat Data Packs - Series X}}
+| Retro-actively awarded
+|-
+| Get any ship to Level 100 (PR3/PR4/PR5: 105).
+| {{Display|CombatDataPack|G|x10 Combat Data Packs - Series X}}
+| Retro-actively awarded
+|-
+| Get any ship to Level 110 (PR3/PR4/PR5: 115).
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+| Retro-actively awarded
+|-
+| Clear 8-4.
+| {{Display|CombatDataPack|G|x10 Combat Data Packs - Series X}}
+| Retro-actively awarded
+|-
+| Clear 9-4
+| {{Display|CombatDataPack|G|x20 Combat Data Packs - Series X}}
+| Retro-actively awarded
+|-
+| Clear 10-4.
+| {{Display|CombatDataPack|G|x30 Combat Data Packs - Series X}}
+| Retro-actively awarded
+|-
+| Finish building any Series 1/2/3/4/5/6 PR ship.
+| {{Display|AllSUnit|G|x30 Strengthening Unit - Series 1||Research}}<br>(PR1)<br>{{Display|AllSUnit2|UR|x30 Special Strengthening Unit - Series 2||Research}}<br>(PR2)<br>{{Display|AllSUnit3|UR|x30 Special Strengthening Unit - Series 3||Research}}<br>(PR3)<br>{{Display|AllSUnit4|UR|x30 Special Strengthening Unit - Series 4||Research}}<br>(PR4)<br>{{Display|AllSUnit5|UR|x30 Special Strengthening Unit - Series 5||Research}}<br>(PR5)<br>{{Display|AllSUnit6|UR|x30 Special Strengthening Unit - Series 6||Research}}<br>(PR6)
+| Can only be completed after finishing all 19 other missions.<br>DR ships also satisfy this requirement.
+|}
+
+
+== Mechanic Tutorials ==
+[[File:Commander handbook mechanic.jpg|300px|thumb|right|Mechanic Tutorials UI.]]
+{{Mbox|inline=1|type=med|text=This section is unfinished, and is being worked on internally. Thank you for your patience.}}
+
+This is a compilation of tutorials and tips to help Commanders just starting out. Each mechanic group contains its own tutorials and associated missions. Completing all missions will reward the player with {{Wisdom cube}} Wisdom Cubes.
+
+=== Level ===
+Level missions here.
+
+[[Category: Gameplay]]

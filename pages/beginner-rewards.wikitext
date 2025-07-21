@@ -1,0 +1,255 @@
+
+This page compiles all tasks (usually one-time missions) given to the player in order to introduce players to game mechanics. These missions supply players with bonus resources and equipment as they progress through the game.
+
+__TOC__
+<div style="clear: both;"></div>
+
+== Commander Handbook ==
+{{Main|Commander Handbook}}
+[[File:Commander handbook rookie.jpg|300px|thumb|right|Commander Handbook UI.]]
+
+The Commander Handbook was added after the update on May 20th 2025. It features a variety of one-time missions to introduce new players to the mechanics of Azur Lane.
+
+== Side Quests ==
+Found under ''Missions - Side'' these are one-time rewards to help out new players.
+
+''Probably incomplete''
+{| class="azltable" style="text-align:center;"
+|-
+!Task Description
+!Rewards
+!Note
+|-
+|Submarines are here! Clear [[3-4]].
+|{{Display|I-58Icon|4|[[I-58]]}} {{Display|4000|3|T3 [[Basic Depth Charge#Type 3|Basic Depth Charge]]}} {{Display|2900|3|T2 [[Basic Sonar#Type 2|Basic Sonar]]}}
+|
+|-
+|Clear [[Supply Line Disruption]]
+|{{Display|25800|5| [[Hedgehog]]}}
+|This is the '''ONLY''' way to get the Hedgehog
+|-
+|Have one ship reach 100 [[Affection|Affinity]].
+|{{Display|Promise Ring|6|x1 [[Affection#Pledge|Promise Ring]]}}
+|This is the '''ONLY''' free Ring given by the game
+|-
+|Awaken any ship's level to 105
+|{{Display|Cognitive Chip|5|x100}}
+|Requirement: Level 60<br/>Unlocks when one ship reaches level 100
+|-
+|Awaken any ship's level to 110
+|{{Display|Cognitive Chip|5|x200}}
+|Unlocks completing previous task
+|-
+|Awaken any ship's level to 115
+|{{Display|Cognitive Chip|5|x400}}
+|Unlocks completing previous task
+|-
+|Awaken any ship's level to 120
+|{{Display|Cognitive Chip|5|x600}}
+|Unlocks completing previous task
+|-
+|Awaken any ship's level to 125
+|{{Display|Cognitive Chip|5|x800}} {{Display|Cognitive Array|5|x100}}
+|Unlocks completing previous task
+|-
+|Reach Lv.125 with 1 ship
+|{{Display|Cognitive Chip|5|x100}} {{Display|Cognitive Array|5|x50}} {{Display|coinicon|2|x1000}} {{Display|T1EXP|3|x100}}
+|Unlocks completing previous task
+|-
+|Reach Lv.125 with 3 ships
+|{{Display|Cognitive Chip|5|x200}} {{Display|Cognitive Array|5|x100}} {{Display|coinicon|2|x2000}} {{Display|T1EXP|3|x100}}
+|Unlocks completing previous task
+|-
+|Reach Lv.125 with 6 ships
+|{{Display|Cognitive Chip|5|x300}} {{Display|Cognitive Array|5|x150}} {{Display|coinicon|2|x3000}} {{Display|T1EXP|3|x150}}
+|Unlocks completing previous task
+|-
+|Reach Lv.125 with 12 ships
+|{{Display|Cognitive Chip|5|x400}} {{Display|Cognitive Array|5|x200}} {{Display|coinicon|2|x4000}} {{Display|T1EXP|3|x150}}
+|Unlocks completing previous task
+|-
+|Reach Lv.125 with 20 ships
+|{{Display|Cognitive Chip|5|x500}} {{Display|Cognitive Array|5|x250}} {{Display|coinicon|2|x5000}} {{Display|T1EXP|3|x200}}
+|Unlocks completing previous task
+|-
+|Reach Lv.125 with 50 ships
+|{{Display|Cognitive Chip|5|x600}} {{Display|Cognitive Array|5|x300}} {{Display|coinicon|2|x6000}} {{Display|T1EXP|3|x200}}
+|Unlocks completing previous task
+|}
+
+== Stage Reward ==
+These one-time rewards can be found under the "Event" tab on the main menu, and require you to clear (100%) stages, separate from regular Task rewards for said stages. Disappears when all rewards are claimed.
+
+{|class="azltable" style="text-align:center;"
+!Stage
+!Reward
+|-
+!1-2
+|{{Display|2200|P|+6 T3 [[Autoloader#Type 3|Autoloader]]}} {{Display|DefenseT3TB|G|1x T3 Defense Skillbook}}
+|-
+!1-4
+|{{Display|11100|P|+6 T3 [[Single 127mm (5"/38 Mk 30)#Type 3|Single 127mm (5"/38 Mk 30)]]}} {{Display|SupportT3TB|G|1x T3 Support Skillbook}}
+|-
+!2-1
+|{{Display|42200|P|+6 T3 [[Twin 150mm (TbtsK C/36)#Type3|Twin 150mm (TbtsK C/36)]]}} {{Display|OffenseT3TB|G|1x T3 Offense Skillbook}}
+|-
+!2-4
+|{{Display|14300|P|+6 T3 [[Triple 406mm (16"/45 Mk 6)#Type 3|Triple 406mm (16"/45 Mk 6)]]}} {{Display|DefenseT3TB|G|1x T3 Defense Skillbook}}
+|-
+!3-1
+|{{Display|17300|P|+6 T2 [[Grumman F6F Hellcat#Type 2|Grumman F6F Hellcat]]}} {{Display|SupportT3TB|G|1x T3 Support Skillbook}}
+|-
+!3-4
+|{{Display|45200|P|+6 T1 [[533mm Quintuple Homing Torpedo Mount]]}} {{Display|OffenseT3TB|G|1x T3 Offense Skillbook}}
+|-
+!4-1
+|{{Display|4100|P|+6 T3 [[Improved Depth Charge#Type 3|Improved Depth Charge]]}} {{Display|DefenseT3TB|G|1x T3 Defense Skillbook}}
+|-
+!4-4
+|{{Display|19100|P|+6 T3 [[Curtiss SB2C Helldiver#Type 3|Curtiss SB2C Helldiver]]}} {{Display|SupportT3TB|G|1x T3 Support Skillbook}}
+|-
+!5-1
+|{{Display|3000|P|+6 T2 [[Improved Sonar#Type 2|Improved Sonar]]}} {{Display|OffenseT3TB|G|1x T3 Offense Skillbook}}
+|-
+!5-4
+|{{Display|26500|P|+6 T2 [[Twin 113mm (4.5"/45 QF Mk I)#Type 2|Twin 113mm (4.5"/45 QF Mk I)]]}} {{Display|DefenseT3TB|G|1x T3 Defense Skillbook}}
+|-
+!6-1
+|{{Display|45400|P|+6 T2 [[Submarine-mounted G7e Acoustic Homing Torpedo#Type 2|G7e Acoustic Homing Torpedo]]}} {{Display|SupportT3TB|G|1x T3 Support Skillbook}}
+|-
+!6-4
+|{{Display|2400|P|+6 T3 [[Repair Toolkit]]}} {{Display|OffenseT3TB|G|1x T3 Offense Skillbook}}
+|}
+
+== Level-Up ==
+Found under Event on the main menu.  Rewards given for achieving Commander Level, up to 50.
+
+{|class="azltable" style="text-align:center;"
+!Level
+!Reward
+|-
+!5
+|{{Display|Drillicon|P|2x Quick Finisher}} {{Display|T2Box|Rare|2x T2 Equipment Box}}
+|-
+!10
+|{{Display|Coinicon|N|3000 Coins}} {{Display|Oilicon|N|500 oil}} {{Display|Coreicon2|G|3 Cubes}}
+|-
+!20
+|{{Display|Drillicon|P|5x Quick Finisher}} {{Display|T3Box|P|2x T3 Equipment Box}} {{Display|Universal BulinIcon|Elite|[[Universal Bulin]]||Universal Bulin}}
+|-
+!30
+|{{Display|Coinicon|N|6000 Coins}} {{Display|Oilicon|N|1000 oil}} {{Display|Coreicon2|G|7 Cubes}} {{Display|Universal BulinIcon|Elite|[[Universal Bulin]]||Universal Bulin}}
+|-
+!40
+|{{Display|Coinicon|N|10000 Coins}} {{Display|Oilicon|N|1500 oil}} {{Display|Prototype Bulin MKIIIcon|G|[[Prototype Bulin MKII]]||Prototype Bulin MKII}}
+|-
+!50
+|{{Display|Coreicon2|G|10 Cubes}} {{Display|Drillicon|P|10x Quick Finisher}} {{Display|T4Box|G|2x T4 Equipment Box}} {{Display|Prototype Bulin MKIIIcon|G|[[Prototype Bulin MKII]]||Prototype Bulin MKII}}
+|}
+
+== 8-Day Login Rewards ==
+Found under Event on the main menu.
+
+{|class="azltable" style="text-align:center;"
+!Day
+!Reward
+!Day
+!Reward
+|-
+!Day 1
+|{{Display|Drillicon|P|3x Quick Finisher}}
+!Day 5
+|{{Display|T3Box|P|3x T3 Equipment Box}}
+|-
+!Day 2
+|{{Display|IndianapolisIcon|P|[[Indianapolis]]||Indianapolis}}
+!Day 6
+|{{Display|Food5|Elite|5x Royal Gourmet}}
+|-
+!Day 3
+|{{Display|Coreicon2|G|3 Cubes}}
+!Day 7
+|{{Display|T4Box|Super Rare|2x T4 Equipment Box}}
+|-
+!Day 4
+|{{Display|Ruby|Elite|150 Gems}}
+!Day 8
+|{{Display|Prinz EugenIcon|G|[[Prinz Eugen]]||Prinz Eugen}}
+|}
+
+== Bulin Support Plan ==
+[[File:Ur exchange task bg.png|thumb|400px]]This one time bonus mission allows you to gain an additional Specialized Bulin Custom MKIII. Core gathered in this mission does '''NOT''' count towards the monthly limit. Completing all missions will also garner an additional 2000 Specialized Cores, half the requirement for one Bulin.
+{| class="azltable" style="text-align:center"
+! Task Description
+! Rewards
+! Notes
+|-
+|Get any BB or BC to level 90
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Get any DD to level 90
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Get any CA or CL to level 90
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|Also allows CB
+|-
+|Get any CV or CVL to level 90
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Clear [[6-4]]
+|{{Display|SpecializedCore|Ultra Rare|200x Specialised Core}}
+|
+|-
+|Build 30 ships.
+|{{Display|SpecializedCore|Ultra Rare|200x Specialised Core}}
+|
+|-
+|Clear 9 Hard Mode stages.
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Clear the Advance Mission Daily 9 times.
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Clear the Fierce Assault Daily 9 times.
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Clear the Escort Mission Daily 9 times.
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Train 10 [[Meowfficer]]s
+|{{Display|SpecializedCore|Ultra Rare|200x Specialised Core}}
+|
+|-
+|Complete 30 commissions
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Win 35 Excersises
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Conduct Research 10 times
+|{{Display|SpecializedCore|Ultra Rare|100x Specialised Core}}
+|
+|-
+|Win 1 battle with a [[Universal Bulin]] or [[Prototype Bulin MKII]] in the fleet
+|{{Display|SpecializedCore|Ultra Rare|300x Specialised Core}}
+|
+|-
+|Complete all missions
+|{{Display|Specialized Bulin Custom MKIIIIcon|Ultra Rare|1x [[Specialized Bulin Custom MKIII]]||Specialized Bulin Custom MKIII}}
+|
+|}
+
+== Akashi's Homecoming Campaign ==
+{{Main|Akashi's Homecoming Campaign}}
+
+Akashi's Homecoming Campaign is available to all commanders that haven't logged in for a long time that are Commander Level 10 and above. When opening the game, you will be greeted by a letter from Akashi and be brought to the Event page.

@@ -1,0 +1,43 @@
+__TOC__
+
+The '''Memento''' contains archives of various Azur Lane content. 
+
+{{Image Gallery|width=350|height=
+| Memento Archives EN.png | [[#Archives|Archives]]
+| Memento Retrofit EN.png | [[#Retrofit|Retrofit]]
+| Memento Collections EN.png | [[#Collection|Collection]]
+| Comics Selection Screen EN.png | [[#Comics|Comics]]
+| Memento Gallery EN.png | [[#Gallery|Gallery]]
+| Memento Jukebox EN.png | [[#Jukebox|Jukebox]]
+}}
+
+== Archives ==
+
+This is where you can view your ship collection progress easily. There are 4 filters: '''Common''', '''Collabs''', '''Priority ship''', '''META'''. Click on a ship in this section for more information. 
+* [[Retrofit|Retrofits]] of a ship count as a separate entry for collection progress. 
+* [[Events#Collaboration Events|Collaboration]] ships do NOT count towards "Ships Unlocked" nor "Collect Ratio".
+
+== Retrofit ==
+{{See also|[[Retrofit|Retrofit (Dockyard)]]}}
+
+Similar to Archives, but specifically only displays [[Retrofit|Retrofits]].
+
+== Collection ==
+{{Main|[[List of Collections]]}}
+
+This is a list of the various collections that are available. Depending on [[Limit Break]] status of ships, you can obtain various rewards, including exclusive ships and [[Equipment|equipment]].
+
+== Comics ==
+{{Main|[[Comics]]}}
+
+This is a list of comic art-style panels of shipgirls doing various things. Most of these are also posted on the official Azur Lane social media accounts.
+
+== Gallery ==
+{{Main|[[Loading Screens]]}}
+
+This is a list of various loading screens used throughout the years. From this tab, you can favorite loading screens, and save them to your device. 
+
+== Jukebox ==
+
+This is a media player interface. You can listen to various tracks from the official Azur Lane OST here.
+

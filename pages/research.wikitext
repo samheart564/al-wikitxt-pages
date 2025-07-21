@@ -1,1 +1,84 @@
-test
+The ''Lab'' tab is where you can research ships, fleet technology, and gear. It contains five sections:
+
+*[[Fleet Technology]] provides small stat bonuses for all fully limit broken ships by unlocking and levelling ships, and by upgrading Faction Tech.
+*[[Research Academy]], where General Blueprints and Gear Designs can be obtained by spending resources or completing tasks.
+*[[Shipyard]], where PR and DR ships can be researched via completion of a number of missions.
+*[[Gear Lab]], where gears can be crafted from other gears and Crafting Materials.
+*[[META Lab]], where META ships can be enhanced, limit broken, and decided which skill to level.
+
+''Clicking on an Image opens their respective Wiki page.''
+{{Image Gallery|width=400|height=
+| ShipworkImage.png | [[Shipyard]] | Shipyard
+| Fleet Technology Window.png | [[Fleet Technology]] | Fleet Technology
+| TechacademyImage.png | [[Research Academy]] | Research Academy
+| Gear Lab Crafting.jpg | [[Gear Lab]] | Gear Lab 
+| META Lab UI.png | [[META Lab]] | META Lab
+}}
+
+<!-- ==Shipyard==
+{{Main|Shipyard}}
+[[File:ShipworkImage.png|350px|left|thumb|Ship development page featuring [[Kansas]].]]
+
+Unlocked at commander level 30, the Shipyard contains obtainable special ships of [[:Category:Priority ships|Priority]] (Super Rare) and [[:Category:Decisive ships|Decisive]] (Ultra Rare) rarity, known as '''PR/DR Ships'''.
+
+==Fleet Technology ==
+{{main|Fleet Technology}}
+[[File:Fleet Technology Window.png|350px|right|thumb|Fleet Technology UI]]
+
+This system allows you to gather bonuses for '''maximum limit break''' ships of each type. Bonuses are earned by each shipgirl in two ways:
+
+*Direct stat bonuses.
+*Faction tech points. These are used to increase faction Tech Level, which also gives stat bonuses.
+
+Multiple copies of the same shipgirl do not give additional stats or tech points; only the highest is counted.
+
+==Research Academy==
+{{main|Research Academy}}
+[[File:TechacademyImage.png|350px|right|thumb|Five available research options to pick from with one daily reset available.]]
+
+Unlocked at Commander Level 30, the Research Academy is a place where the player can undertake Research Projects. Projects may require the player to pay resources or complete an objective, and it takes time to complete. When completed, Projects can produce General Blueprints and other rewards.
+
+=== Blueprint Farming ===
+The best research projects to farm blueprints from are D-type projects (with a ship on their icons).
+
+As of the release of PR4 in July 2021, ships from previous PR seasons that are maxed at Dev Lv 30 AND Fate Sim Lv 5 do not show up in research projects. For the current PR season, the requirement is only Dev Lv 30. This means that maxing out a ship makes it easier to farm others, especially DR ships.
+{| class="wikitable"
+!Possible requirements
+! Possible rewards
+|-
+|
+*{{Cube}} Cubes.
+*{{Coin}} Coins.
+*{{Plate|T3}} Upgrade Parts.
+*{{EquipmentBox|Elite|Equipment Design|Equipment|UnknownBP|No|24px}} Specific Equipment Designs.
+*Dismantle equipments.
+*Complete Normal maps in a given chapter.
+*Complete Commissions.
+|
+*{{EquipmentBox|Ultra Rare|Specialized Core|Shops#Specialized Core Collection Plan|SpecializedCore|No|24px}} Specialized Cores; the amount is based on the hours required to complete the projects.
+*{{EquipmentBox|Super Rare|Random General Blueprints|Research|UnknownSUnit|No|24px}} General Blueprints; projects are the main source of these.
+*{{EquipmentBox|Super Rare|Research Equipment Design|Equipment|UnknownBP|Yes|24px}} Research Equipment Designs that are not available from Tech Boxes or main story maps.
+*{{EquipmentBox|Super Rare|Equipment Design|Equipment|UnknownBP|No|24px}} Regular Equipment Designs, including some that otherwise only appear in event maps.
+*{{EquipmentBox|Super Rare|Cognitive Chip|Dockyard#Cognitive Awakening|Cognitive Chip|No|24px}} Cognitive Chips.
+*{{EquipmentBox|Super Rare|T3 Blueprint|Retrofit|UnknownT3BP|No|24px}} Retrofit Blueprints.
+*{{Coin}} Coins (but not many).
+|}
+
+==Gear Lab==
+{{main|Gear Lab}}
+[[File:Gear Lab Crafting.jpg|350px|right|thumb|F7F Tigercat being crafted in the Gear Lab.]]
+
+In the Gear Lab you can construct a number of weapons from the factions Eagle Union, Royal Navy, Iron Blood, Sakura Empire and Iris Orthodoxy. Each faction is separated into tabs for each type of Main Gun, each type of Aircraft, and both Submarine and Surface Torpedoes. Each tab contains a tree starting with Rare or Elite equipment and working up to SR or UR equipment. 
+
+Crafting an Equipment requires 3 '''Crafting Materials''' in varying quantities, a small amount of {{coin}} Coins, and the previous item. Equipment Blueprints can additionally be used in place of an Equipment, when applicable. SR and UR gears require a number of '''Design Plans''' of the same type and rarity as one of their Crafting Materials.
+
+Using an enhanced item as crafting material will return some of the gold and all of the Upgrade Parts used. It is therefore usually best to use your most enhanced gear for crafting, as the parts can then be used to enhance the newly crafted gear.
+
+== META Lab ==
+{{Main|Meta Lab}}
+[[File:META Lab UI.png|thumb|META Lab UI]]
+
+The META Lab is used to manage and upgrade [[META]] ships.
+ -->
+
+[[Category:Gameplay]]

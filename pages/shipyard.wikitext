@@ -1,17 +1,14 @@
 <div style="float:right; margin:-1.5em 0 0 2em;">__TOC__</div>
 
-[[File:ShipworkImage.png|350px|right|thumb|Ship development page featuring [[Hindenburg]].]]
+{{See also|[[Research]]}}
 
-Unlocked at commander level 30, the Shipyard is a feature where you can develop special ships of [[:Category:Priority ships|Priority]] and [[:Category:Decisive ships|Decisive]] rarity. In order to do so, you must first meet certain prerequisites specific to each Research ship. These prerequisites usually involve reaching a certain amount of [[Fleet Technology]] points, although PR1 requires you to unlock a certain amount of ships from certain hull classes instead, and these ships do not have to be in the dock to count toward the prerequisite. Afterward, you must complete a series of eight quests, which notably requires you to earn 3 million experience for ships of a specific type through combat ([[Exercise]]s and [[Commissions]] do not count, [[Daily Raid]]s and [[Operation Siren]] do), dependent on the Research ship. Research ships cannot be used as enhancement material for regular ships nor be retired.
+[[File:ShipworkImage.png|350px|right|thumb|Ship development page featuring [[Kansas]].]]
 
-[[Beginner Rewards#Development (PR)|Rookie Missions]] and [[Cruise Missions]] offer [[File:CombatDataPack.png|30px|link=]] '''Combat Data Packs''' which can be substituted to count for 10,000XP for Combat Data Collection by using the "Speed Up" button (of the respective series. You cannot use PR1 Combat Data Packs on PR2 ships for example). A total of 400 Combat Data Packs are available for PR2, 3 & 4, worth 4,000,000XP, and 800 Combat Data Packs for PR1 total worth 8,000,000XP Prototype Cores through Rookie Missions. Cruise Missions offer 100 Combat Data Packs for PR2 every 2 months, worth 1,000,000XP.
-Every Combat Data Pack can alternatively be converted to 2 [[File:Protocoreicon.png|30px|link=Shops#Prototype Shop]] Prototype Cores in the Depot, which can be spent in the [[Shops#Prototype_Shop|Prototype Shop]].
-
-From the start of development, you can halt the progress of a Research ship after waiting a 24-hour cooldown period, which pauses the quests relating to that ship and allows you to begin development of a new ship of your choice. However, you cannot develop two ships at the same time. 
-
-The tables below list how these ships are obtained.
+Unlocked at commander level 30, the Shipyard contains obtainable special ships of [[:Category:Priority ships|Priority]] (Super Rare) and [[:Category:Decisive ships|Decisive]] (Ultra Rare) rarity.
 
 == Ships ==
+
+All ships in the Shipyard were added in collaboration with [https://en.wikipedia.org/wiki/World_of_Warships ''World of Warships''], and are loosely based off of existing ships within that game.
 
 ===Series 1===
 
@@ -820,11 +817,11 @@ The tables below list how these ships are obtained.
     {| class="azltable" style="margin-top:3px"
      ! Development requirements
      |-
-     ! style="background-color:#555555" | 950 [[Eagle Union]] {{Tech point|30}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     ! style="background-color:#555555" | 950 [[Eagle Union]] {{Tech point|25}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
      |-
      | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1 million experience with [[Eagle Union]] Main Fleet ships<br><!--
        -->'''2.''' Complete 5 [[Research Academy|Research Projects]]<br><!--
-       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT2BP.png|20px|link=Dockyard#Blueprints|T2 Battleship Retrofit blueprint]]</div> 10 T2 Battleship Retrofit Blueprints<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT2BP.png|20px|link=Dockyard#Blueprints|T2 Battleship Retrofit blueprint]]</div> 10 T3 Battleship Retrofit Blueprints<br><!--
        -->'''4.''' Accumulate 2 million experience with [[Eagle Union]] Main Fleet ships<br><!--
        -->'''5.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
        -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T3 Battleship Retrofit blueprint]]</div> 5 T3 Battleship Retrofit Blueprints<br><!--
@@ -833,7 +830,7 @@ The tables below list how these ships are obtained.
     |}
    </div>
   </div>
- |-| 
+ |-|
  Mecklenburg=
   <div style="display:flex; flex-wrap:wrap">
    <div style="margin-right:10px">{{ShipDisplay|6|Mecklenburg|BB||{{Decisive}}&ensp;{{Iron Blood|x25}}}}</div>
@@ -841,20 +838,20 @@ The tables below list how these ships are obtained.
     {| class="azltable" style="margin-top:3px"
      ! Development requirements
      |-
-     ! style="background-color:#555555" | 950 [[Iron Blood]] {{Tech point|30}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     ! style="background-color:#555555" | 950 [[Iron Blood]] {{Tech point|25}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
      |-
      | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1.2 million experience with [[Iron Blood]] Main Fleet ships<br><!--
        -->'''2.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
-       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T3 Battleship Retrofit blueprint]]</div> 3 T3 Battleship Retrofit Blueprints<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T2 Battleship Retrofit blueprint]]</div> 3 T3 Battleship Retrofit Blueprints<br><!--
        -->'''4.''' Accumulate 2.4 million experience with [[Iron Blood]] Main Fleet ships<br><!--
        -->'''5.''' Complete 12 [[Research Academy|Research Projects]]<br><!--
-       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|6}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T4 Battleship Retrofit blueprint]]</div> 8 T4 Battleship Retrofit Blueprints<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:BattleshipT3BP.png|20px|link=Dockyard#Blueprints|T3 Battleship Retrofit blueprint]]</div> 8 T3 Battleship Retrofit Blueprints<br><!--
        -->'''7.''' Gather {{Coin|20}} 60000 Coins<br><!--
        -->'''8.''' Gather {{Wisdom cube|20}} 10 Wisdom Cubes
     |}
    </div>
   </div>
- |-| 
+ |-|
  Vittorio Cuniberti=
   <div style="display:flex; flex-wrap:wrap">
    <div style="margin-right:10px">{{ShipDisplay|5|Vittorio Cuniberti|DD||{{Priority}}&ensp;{{Sardegna Empire|x25}}}}</div>
@@ -862,7 +859,7 @@ The tables below list how these ships are obtained.
     {| class="azltable" style="margin-top:3px"
      ! Development requirements
      |-
-     ! style="background-color:#555555" | 300 [[Sardegna Empire]] {{Tech point|20}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     ! style="background-color:#555555" | 300 [[Sardegna Empire]] {{Tech point|25}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
      |-
      | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1 million experience with [[Sardegna Empire]] Vanguard ships<br><!--
        -->'''2.''' Complete 5 [[Research Academy|Research Projects]]<br><!--
@@ -875,7 +872,7 @@ The tables below list how these ships are obtained.
     |}
    </div>
   </div>
- |-| 
+ |-|
  Dmitri Donskoi=
   <div style="display:flex; flex-wrap:wrap">
    <div style="margin-right:10px">{{ShipDisplay|5|Dmitri Donskoi|CL||{{Priority}}&ensp;{{Northern Parliament|x25}}}}</div>
@@ -883,20 +880,20 @@ The tables below list how these ships are obtained.
     {| class="azltable" style="margin-top:3px"
      ! Development requirements
      |-
-     ! style="background-color:#555555" | 300 [[Northern Parliament]] {{Tech point|20}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     ! style="background-color:#555555" | 300 [[Northern Parliament]] {{Tech point|25}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
      |-
      | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1 million experience with [[Northern Parliament]] Vanguard ships<br><!--
        -->'''2.''' Complete 5 [[Research Academy|Research Projects]]<br><!--
-       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT2BP.png|20px|link=Dockyard#Blueprints|T2 Cruiser Retrofit Blueprint]]</div> 10 T2 Cruiser Retrofit Blueprints<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|4}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT2BP.png|20px|link=Dockyard#Blueprints|T2 cruiser Retrofit blueprint]]</div> 10 T2 cruiser Retrofit Blueprints<br><!--
        -->'''4.''' Accumulate 2 million experience with [[Northern Parliament]] Vanguard ships<br><!--
        -->'''5.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
-       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 Cruiser Retrofit Blueprint]]</div> 5 T3 Cruiser Retrofit Blueprints<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 cruiser Retrofit blueprint]]</div> 5 T3 cruiser Retrofit Blueprints<br><!--
        -->'''7.''' Gather {{Coin|20}} 20000 Coins<br><!--
        -->'''8.''' Gather {{Wisdom cube|20}} 5 Wisdom Cubes
     |}
    </div>
   </div>
- |-| 
+ |-|
  Gouden Leeuw=
   <div style="display:flex; flex-wrap:wrap">
    <div style="margin-right:10px">{{ShipDisplay|6|Gouden Leeuw|CA||{{Decisive}}&ensp;{{Kingdom of Tulipa|x25}}}}</div>
@@ -904,14 +901,14 @@ The tables below list how these ships are obtained.
     {| class="azltable" style="margin-top:3px"
      ! Development requirements
      |-
-     ! style="background-color:#555555" | 800 [[Iron Blood]] and 200 [[Sardegna Empire]] {{Tech point|30}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
+     ! style="background-color:#555555" | 800 [[Iron Blood]] and 200 [[Sardegna Empire]] {{Tech point|25}}[[Fleet Technology#Tech points|Tech Points]] required to unlock development
      |-
-     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1.2 million experience with [[Kingdom of Tulipa]] or [[Iron Blood]] Vanguard ships<br><!--
+     | style="border-radius:0; line-height:1.8em" | '''1.''' Accumulate 1.2 million experience with [[Kingdom of Tulipa]], [[Iron Blood]] or [[Sardegna Empire]] Vanguard ships<br><!--
        -->'''2.''' Complete 8 [[Research Academy|Research Projects]]<br><!--
-       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 Cruiser Retrofit blueprint]]</div> 3 T3 Cruiser Retrofit Blueprints<br><!--
-       -->'''4.''' Accumulate 2.4 million experience with [[Kingdom of Tulipa]] or [[Iron Blood]] Vanguard ships<br><!--
+       -->'''3.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 cruiser Retrofit blueprint]]</div> 3 T3 Cruiser Retrofit Blueprints<br><!--
+       -->'''4.''' Accumulate 2.4 million experience with [[Kingdom of Tulipa]], [[Iron Blood]] or [[Sardegna Empire]] Vanguard ships<br><!--
        -->'''5.''' Complete 12 [[Research Academy|Research Projects]]<br><!--
-       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|6}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T4 Cruiser Retrofit blueprint]]</div> 8 T4 Cruiser Retrofit Blueprints<br><!--
+       -->'''6.''' Gather <div style="background-color:{{Color|Rarity|5}}; border-radius:10%; display:inline-block; margin:0 2px 0 2px">[[File:CruiserT3BP.png|20px|link=Dockyard#Blueprints|T3 cruiser Retrofit blueprint]]</div> 8 T3 Cruiser Retrofit Blueprints<br><!--
        -->'''7.''' Gather {{Coin|20}} 40000 Coins<br><!--
        -->'''8.''' Gather {{Wisdom cube|20}} 10 Wisdom Cubes
     |}
@@ -919,9 +916,30 @@ The tables below list how these ships are obtained.
   </div>
 </tabber>
 
+== Development ==
+
+=== Unlock Requirements ===
+All ships have a prerequiesite condition necessary to unlock development. Once the condition is met, you are able to start working on that ship's specific development missions. The prerequiesite conditions can be seen in the [[Shipyard#Ships|Ships]] section.
+* You can only work on development missions for 1 ship at a time, irrespective of season.
+* There is a 24-hour cooldown for swapping which ship you are developing. After the 24 hours are up, you can switch to focus on another ship's missions. 
+** Progress on the original ship is saved, and pauses until you switch back to them.
+* For PR1, you just need to have those ships unlocked in the [[Memento#Archives|Memento Archives]]; ships do NOT have to be in your dock.
 
 
-==Enhancing==
+
+
+=== Development Missions ===
+
+In order to do so, you must first meet certain prerequisites specific to each Research ship. These prerequisites usually involve reaching a certain amount of [[Fleet Technology]] points, although PR1 requires you to unlock a certain amount of ships from certain hull classes instead, and these ships do not have to be in the dock to count toward the prerequisite. Afterward, you must complete a series of eight quests, which notably requires you to earn 3 million experience for ships of a specific type through combat ([[Exercise]]s and [[Commissions]] do not count, [[Daily Raid]]s and [[Operation Siren]] do), dependent on the Research ship. Research ships cannot be used as enhancement material for regular ships nor be retired.
+
+[[Beginner Rewards#Development (PR)|Rookie Missions]] and [[Cruise Missions]] offer [[File:CombatDataPack.png|30px|link=]] '''Combat Data Packs''' which can be substituted to count for 10,000XP for Combat Data Collection by using the "Speed Up" button (of the respective series. You cannot use PR1 Combat Data Packs on PR2 ships for example). A total of 400 Combat Data Packs are available for PR2, 3 & 4, worth 4,000,000XP, and 800 Combat Data Packs for PR1 total worth 8,000,000XP Prototype Cores through Rookie Missions. Cruise Missions offer 100 Combat Data Packs for PR2 every 2 months, worth 1,000,000XP.
+Every Combat Data Pack can alternatively be converted to 2 [[File:Protocoreicon.png|30px|link=Shops#Prototype Shop]] Prototype Cores in the Depot, which can be spent in the [[Shops#Prototype_Shop|Prototype Shop]].
+
+From the start of development, you can halt the progress of a Research ship after waiting a 24-hour cooldown period, which pauses the quests relating to that ship and allows you to begin development of a new ship of your choice. However, you cannot develop two ships at the same time. 
+
+== Enhancing ==
+
+=== Blueprints ===
 Priority ships use special units called '''General Blueprints''' (often shortened to "BP") obtained from the [[Research Academy]], [[Shops#Prototype Shop|Prototype Shop]], [[Building#Exchange|Medal Exchange]], Event Shops, Event Point Milestone Rewards or other limited events; each PR ship has its own General Blueprints, identified by its icon in the bottom right corner. These are required in order to [[Dockyard#Limit_Break|Limit Break]] said PR ship. However, to unlock certain Development Level, it is still required to reach certain level as per normal ship need for Limit breaks.
 
 The table below lists the amount of blueprints needed to reach specific development levels. 
@@ -958,8 +976,8 @@ The table below lists the amount of blueprints needed to reach specific developm
 
 Note that the levels of PR ships are not capped by the number of limit breaks they have undergone; for instance, a recently obtained Neptune (with no development levels and limit breaks) can still reach level 100, and indeed level 125 using the [[Dockyard#Cognitive Awakening|Cognition Awakening]] system. (''Lower'' limits still apply, however; Neptune needs to be at least level 10 to advance past development level 9, for instance.) Aside from this, PR ships level in the same way as regular ships.
 
-===Enhancing with Coins===
-Series 1,2,3,4 and the PR ships of PR5 allow the use of {{coin}} to replace BP. Blueprints are always taken first, but if no prints are available the option to buy for {{coin}} becomes available. Every day the first 15 purchases are discounted, this is a combined amount amongst all ships in all supported seasons, you do not get 2 free prints per day per ship for example. However the PR prints and DR prints discounts are calculated seperately. Both discounts resets each day 4 hours after reset time<!--for some stupid reason-->. The following prices apply to enhance series by coin:
+=== Coins ===
+Series 1,2,3,4 and the PR ships of PR5 allow the use of {{coin}} to replace BP. Blueprints are always taken first, but if no prints are available the option to buy for {{coin}} becomes available. Every day the first 15 purchases are discounted, this is a combined amount amongst all ships in all supported seasons, you do not get 2 free prints per day per ship for example. However the PR prints and DR prints discounts are calculated seperately. Both discounts reset 4 hours after the daily reset each day. The following prices apply to enhance series by coin:
 
 {| class="azltable" style="text-align: center;"
 ! colspan="7" |PR1, 2, 3, 4 & 5 Buyable prints cost

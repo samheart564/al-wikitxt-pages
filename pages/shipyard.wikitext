@@ -12,7 +12,7 @@ Unlocked at commander level 30, the Shipyard contains obtainable special ships o
 
 All PR/DR ships are added in collaboration with [https://en.wikipedia.org/wiki/World_of_Warships ''World of Warships''], and are loosely based off of existing ships within that game.
 
-PR/DR ships are split up into Series; you can select which series using the switch button on the bottom left of the UI.
+PR/DR ships are split up into Series; The series can be selected using the switch button on the bottom left of the UI.
 
 ===Series 1===
 
@@ -922,11 +922,12 @@ PR/DR ships are split up into Series; you can select which series using the swit
 </tabber>
 
 == Unlock Requirements ==
-All PR/DR ships have a prerequiesite condition necessary to unlock development. Once the condition is met, you are able to start working on that ship's specific development missions. The prerequiesite conditions can be seen in the [[#Ships|Ships]] section.
-* You can only work on development missions for 1 ship at a time, irrespective of season.
-* There is a 24-hour cooldown for swapping which ship you are developing. After the 24 hours are up, you can switch to focus on another ship's missions. 
+All PR/DR ships have a prerequiesite condition necessary to unlock development. Once the condition is met, that ship's specific development missions can be worked on. The prerequiesite conditions can be seen in the [[#Ships|Ships]] section.
+* Only 1 ship's development missions can be worked on at a time, irrespective of season. However, multiple missions can be done simultaneously for that ship.
+* Once a ship is first selected, the 1st mission unlocks immediately. A new mission unlocks every 24 hours until all are unlocked. The final 2 missions unlock at the same time.
+* There is a 24-hour cooldown for swapping which ship is developing. After the 24 hours are up, you can switch to focus on another ship's missions. 
 ** Progress on the original ship is saved, and pauses until you switch back to them.
-* For the PR1 ships' unlock requirements, you just need to have those ships unlocked in the [[Memento#Archives|Memento Archives]]; '''ships do NOT have to be in your dock.'''
+* For the PR1 ships' unlock requirements, those ships need to be unlocked in the [[Memento#Archives|Memento Archives]]; '''the ships do NOT have to be in the dock.'''
 
 == Development Missions ==
 
@@ -936,7 +937,7 @@ Most development missions are straightforward. Some game mechanics have been fur
 
 === Combat Data Collection ===
 
-These missions require you to gather experience using specific categories of ships. Only experience gathered from the following supported methods count.
+These missions require experience gathering using specific categories of ships. Only experience gathered from the following supported methods count.
 * If a ship is level capped for any reason (ex. [[Cognitive Awakening]], [[Limit Break]], etc.), any EXP they would have gained '''will count''' towards Combat Data Collection missions, if the EXP would count otherwise.
 ** Even if you see +0 EXP at the end of a battle.
 
@@ -972,7 +973,7 @@ These missions require you to gather experience using specific categories of shi
 === Combat Data Packs ===
 The [[Commander Handbook#Development Missions|Commander Handbook]] and [[Cruise Missions]] offer [[File:CombatDataPack.png|30px|link=]] '''Combat Data Packs'''.
 
-Each '''Combat Data Pack''' counts 10,000 EXP towards Combat Data Collection missions of their respective series. You can use them through the "Speed Up" button.
+Each '''Combat Data Pack''' counts 10,000 EXP towards Combat Data Collection missions of their respective series. Click the "Speed Up" button to use them.
 
 A total of 400 Combat Data packs per category can be obtained from the [[Commander Handbook#Development Missions|Commander Handbook]], and 100 can be obtained every 2 months from [[Cruise Missions]].
 
@@ -1024,7 +1025,7 @@ PR/DR ships have no level caps due to [[Limit Break|Limit Breaks]], similar to [
 === Coins ===
 [[File:Shipyard Coinup.png|350px|right|thumb|Enhancing with Coins UI.]]
 
-You can use {{coin}} Coins on supported ships from older Series to replace BP. If you have blueprints for that ship, you are forced to use them all up before the option to buy with {{coin}} Coins appears. 
+{{coin}} Coins can be used on supported ships from older Series to replace BP. If you have blueprints for that ship, you are forced to use up all blueprints before the option to buy with {{coin}} Coins appears. 
 
 Every day, the '''first 15 purchases per rarity (irrespective of series)''' are discounted. Both discounts reset 4 hours after the daily reset each day. The following prices apply to enhance series by coin:
 
@@ -1249,9 +1250,9 @@ Currently, all PR ships in Series 1-6, all DR ships in Series 2-3, and [[Hakuryu
 | Shipyard projection selection.png | Skin Projection Selection UI
 }}
 
-Skin Projection is a feature introduced during the [[Recent_News#May_29th_2025|May 29th, 2025]] game update. It allows you to duplicate a PR / DR ship within the Secretary menu only. Each PR/DR ship can have up to 6 different '''Skin Projections''' of themselves. 
+Skin Projection is a feature introduced during the [[Recent_News#May_29th_2025|May 29th, 2025]] game update. It allows duplication of a PR / DR ship within the Secretary menu only. Each PR/DR ship can have up to 6 different '''Skin Projections''' of themselves. 
 
-In order to create a Skin Projection, you must complete a mission per PR/DR ship. Each mission completed unlocks 1 Skin Projection for that ship. To manage all Skin Projections, click the "Manage Projection" button on the top right of the UI. 
+Skin Projections come with missions; each mission completed unlocks 1 Skin Projection for that ship. To manage all Skin Projections, click the "Manage Projection" button on the top right of the UI.
 
 When editing Secretary ships, click the "projection" option in the lower-left corner to choose and add a Skin Projection to that slot. Skin Projections can also be added to the Secretary Rotation List for random display.
 
@@ -1260,9 +1261,9 @@ When editing Secretary ships, click the "projection" option in the lower-left co
 {| class="azltable mw-collapsible" style="text-align: center"
 |+ Skin Projection Missions
 |-
-! style="width: 10%; text-align: center;"| Mission
-! style="width: 45%; text-align: center;"| Requirement
-! style="width: 45%; text-align: center;"| Notes
+! style="width: 20%; text-align: center;"| Mission
+! style="width: 30%; text-align: center;"| Requirement
+! style="width: 50%; text-align: center;"| Notes
 |-
 | '''Proficiency Level'''
 | Reach level 120 with the selected shipgirl.
@@ -1277,7 +1278,7 @@ When editing Secretary ships, click the "projection" option in the lower-left co
 | ''A battle is a trial, a tempering of the self, and also the proof of your shared bond.''
 |-
 | '''Oathing'''
-| Oath the selected shipgirl.
+| [[Oath]] the selected shipgirl.
 | ''With this oath, may your many moments of beauty and bliss join together into an everlasting tale.''
 |-
 | '''Additional Work 1'''
@@ -1292,10 +1293,10 @@ When editing Secretary ships, click the "projection" option in the lower-left co
 == Other ==
 
 === Base Stats ===
-You can see the Stat Hexagon for the ship here. In addition, you can see their skills.
+The Stat Hexagon for the ship is visible here. In addition, skill descriptions are also visible here.
 
-Clicking '''Simulation''' allows you to try out the ship in combat with set equipment and fleets. Numbers in simulation are inflated compared to the actual game, so ships can appear stronger than they actually seem.
+Clicking '''Simulation''' opens a trial stage. In this trial stage, the ship can be sortied in combat with trial equipment and fleets. Numbers in simulation are inflated compared to the actual game, so ships can appear stronger than they actually seem.
 
 === Enhance ===
-This tab shows you the benefits unlocked per Development Level threshold reached. Benefits include ship stats and ship voicelines unlocked.
+This tab shows the benefits unlocked per Development Level threshold reached. Benefits include ship stats and ship voicelines unlocked.
 
